@@ -11,14 +11,14 @@ if (i = 4)
 
 
 let spanElement = document.querySelectorAll("span");
-console.log(pElement)
 for (let i = 0; i < spanElement.length ;i++) {
     spanElement.item(i).style.backgroundColor = "red";
     spanElement.item(i).style.direction = "rtl";
-
 }
+console.log(spanElement)
 
 let aElement = document.querySelectorAll("a");
 for (let i = 0; i < aElement.length ;i++) {
     aElement.item(i).innerText ="je suis un lien";
+    aElement.item(i).href ="https://www.youtube.com/";
 }
