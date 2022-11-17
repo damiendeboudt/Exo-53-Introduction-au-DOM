@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: orange;
+}
+*{
+    font-size: 1.5rem;
+}
+
+@keyframes anim {
+    from {
+        background-color: green;
+    }to {
+    background-color: red;
+         }
+}

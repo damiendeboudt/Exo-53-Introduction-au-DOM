@@ -10,7 +10,7 @@ Créez votre fichier JavaScript
 ## Fichier HTML
 
     1. Votre fichier HTML doit contenir 5 paragraphes avec du lorem.
-    2. Votre fichier HTML doit contenir au moins 10 span disposant de la classe spanTest, ne donnez aucun style CSS !! Ajoutez du texte
+    2. Votre fichier HTML doit contenir au moins 10 span disposant de la classe spanTest, ne donnez aucun style CSS !!Ajoutez du texte
     3. Votre fichier HTML doit contenir au moins 5 liens ne pointant sur rien du tout pour le moment !
     
 ## Fichier CSS
